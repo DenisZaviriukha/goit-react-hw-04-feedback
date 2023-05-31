@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import { FeedbackOptions } from "./Control/Control";
 import { Statistics } from "./Stats/Stats";
-
+ 
 import { GlobalStyle } from "./GlobalStyles";
 import { Layout } from "./Layout/Layout";
 import {Section} from "./Section/Section";
